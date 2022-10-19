@@ -1,0 +1,5 @@
+C:\Users\dns\Desktop\f\Laba2\Laba2\Library\bin\Debug\Library.dll
+C:\Users\dns\Desktop\f\Laba2\Laba2\Library\bin\Debug\Library.pdb
+C:\Users\dns\Desktop\f\Laba2\Laba2\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\dns\Desktop\f\Laba2\Laba2\Library\obj\Debug\Library.dll
+C:\Users\dns\Desktop\f\Laba2\Laba2\Library\obj\Debug\Library.pdb

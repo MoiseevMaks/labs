@@ -1,0 +1,10 @@
+C:\Users\dns\Desktop\f\Laba2\Laba2\5\bin\Debug\5.exe.config
+C:\Users\dns\Desktop\f\Laba2\Laba2\5\bin\Debug\5.exe
+C:\Users\dns\Desktop\f\Laba2\Laba2\5\bin\Debug\5.pdb
+C:\Users\dns\Desktop\f\Laba2\Laba2\5\bin\Debug\Library.dll
+C:\Users\dns\Desktop\f\Laba2\Laba2\5\bin\Debug\Library.pdb
+C:\Users\dns\Desktop\f\Laba2\Laba2\5\obj\Debug\5.csproj.SuggestedBindingRedirects.cache
+C:\Users\dns\Desktop\f\Laba2\Laba2\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+C:\Users\dns\Desktop\f\Laba2\Laba2\5\obj\Debug\5.csproj.CopyComplete
+C:\Users\dns\Desktop\f\Laba2\Laba2\5\obj\Debug\5.exe
+C:\Users\dns\Desktop\f\Laba2\Laba2\5\obj\Debug\5.pdb

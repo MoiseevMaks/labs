@@ -1,0 +1,11 @@
+C:\Users\dns\Desktop\f\Laba2\Laba2\4\obj\Debug\4.csproj.SuggestedBindingRedirects.cache
+C:\Users\dns\Desktop\f\Laba2\Laba2\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+C:\Users\dns\Desktop\f\Laba2\Laba2\4\bin\Debug\4.exe.config
+C:\Users\dns\Desktop\f\Laba2\Laba2\4\bin\Debug\4.exe
+C:\Users\dns\Desktop\f\Laba2\Laba2\4\bin\Debug\4.pdb
+C:\Users\dns\Desktop\f\Laba2\Laba2\4\bin\Debug\Library.dll
+C:\Users\dns\Desktop\f\Laba2\Laba2\4\bin\Debug\Library.pdb
+C:\Users\dns\Desktop\f\Laba2\Laba2\4\obj\Debug\4.csproj.CopyComplete
+C:\Users\dns\Desktop\f\Laba2\Laba2\4\obj\Debug\4.exe
+C:\Users\dns\Desktop\f\Laba2\Laba2\4\obj\Debug\4.pdb
+C:\Users\dns\Desktop\f\Laba2\Laba2\4\obj\Debug\4.csproj.AssemblyReference.cache
