@@ -1,0 +1,7 @@
+C:\Users\dns\Desktop\f\laba 1\2\laba2\bin\Debug\laba2.exe.config
+C:\Users\dns\Desktop\f\laba 1\2\laba2\bin\Debug\laba2.exe
+C:\Users\dns\Desktop\f\laba 1\2\laba2\bin\Debug\laba2.pdb
+C:\Users\dns\Desktop\f\laba 1\2\laba2\obj\Debug\2.csproj.SuggestedBindingRedirects.cache
+C:\Users\dns\Desktop\f\laba 1\2\laba2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\dns\Desktop\f\laba 1\2\laba2\obj\Debug\laba2.exe
+C:\Users\dns\Desktop\f\laba 1\2\laba2\obj\Debug\laba2.pdb
