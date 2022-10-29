@@ -1,0 +1,8 @@
+C:\Users\dns\Desktop\f\laba3\5\bin\Debug\5.exe.config
+C:\Users\dns\Desktop\f\laba3\5\bin\Debug\5.exe
+C:\Users\dns\Desktop\f\laba3\5\bin\Debug\5.pdb
+C:\Users\dns\Desktop\f\laba3\5\obj\Debug\5.csproj.AssemblyReference.cache
+C:\Users\dns\Desktop\f\laba3\5\obj\Debug\5.csproj.SuggestedBindingRedirects.cache
+C:\Users\dns\Desktop\f\laba3\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+C:\Users\dns\Desktop\f\laba3\5\obj\Debug\5.exe
+C:\Users\dns\Desktop\f\laba3\5\obj\Debug\5.pdb
