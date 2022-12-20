@@ -1,0 +1,8 @@
+C:\Users\dns\Desktop\кошмар\программирование\f\Laba4\2\obj\Debug\2.csproj.AssemblyReference.cache
+C:\Users\dns\Desktop\кошмар\программирование\f\Laba4\2\obj\Debug\2.csproj.SuggestedBindingRedirects.cache
+C:\Users\dns\Desktop\кошмар\программирование\f\Laba4\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\dns\Desktop\кошмар\программирование\f\Laba4\2\bin\Debug\2.exe.config
+C:\Users\dns\Desktop\кошмар\программирование\f\Laba4\2\bin\Debug\2.exe
+C:\Users\dns\Desktop\кошмар\программирование\f\Laba4\2\bin\Debug\2.pdb
+C:\Users\dns\Desktop\кошмар\программирование\f\Laba4\2\obj\Debug\2.exe
+C:\Users\dns\Desktop\кошмар\программирование\f\Laba4\2\obj\Debug\2.pdb
